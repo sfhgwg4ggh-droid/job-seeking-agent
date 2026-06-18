@@ -1,0 +1,7 @@
+node_modules/
+.env
+data/agent-state.json
+data/jobs.json
+data/applications.json
+data/learning-progress.json
+*.log
