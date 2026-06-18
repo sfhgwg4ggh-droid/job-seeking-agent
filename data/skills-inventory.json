@@ -1,0 +1,236 @@
+{
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "advanced",
+      "category": "language",
+      "lastUpdated": "2026-06-18",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "name": "HTML",
+      "level": "advanced",
+      "category": "frontend",
+      "lastUpdated": "2026-06-18",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "name": "CSS",
+      "level": "advanced",
+      "category": "frontend",
+      "lastUpdated": "2026-06-18",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "name": "Node.js",
+      "level": "intermediate",
+      "category": "backend",
+      "lastUpdated": "2026-06-18",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "name": "Express",
+      "level": "intermediate",
+      "category": "backend",
+      "lastUpdated": "2026-06-18",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "name": "Git",
+      "level": "intermediate",
+      "category": "devops",
+      "lastUpdated": "2026-06-18",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "name": "Python",
+      "level": "beginner",
+      "category": "language",
+      "lastUpdated": "2026-06-18",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "name": "MySQL",
+      "level": "beginner",
+      "category": "database",
+      "lastUpdated": "2026-06-18",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "name": "Java",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 40,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "React",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 36,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "Vue",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 34,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "Redis",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 32,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "Docker",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 25,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "TypeScript",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 14,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "Kubernetes",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 14,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "AWS",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 14,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "微服务",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 12,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "MongoDB",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 7,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "Go",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 7,
+      "urgency": "high",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "Angular",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 4,
+      "urgency": "medium",
+      "requiredLevel": "intermediate"
+    },
+    {
+      "name": "Webpack",
+      "level": "none",
+      "category": "unknown",
+      "lastUpdated": "2026-06-18T00:02:37.672Z",
+      "verified": false,
+      "source": "ai-analysis",
+      "status": "pending",
+      "demandCount": 4,
+      "urgency": "medium",
+      "requiredLevel": "intermediate"
+    }
+  ],
+  "targetRoles": [
+    "前端开发",
+    "全栈开发",
+    "Node.js开发"
+  ],
+  "desiredSkills": [
+    "TypeScript",
+    "React",
+    "Docker",
+    "AWS"
+  ],
+  "lastAnalysisAt": "2026-06-18T00:02:37.673Z"
+}
