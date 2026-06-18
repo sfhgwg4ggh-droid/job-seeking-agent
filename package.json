@@ -1,0 +1,26 @@
+{
+  "name": "job-seeking-agent",
+  "version": "1.0.0",
+  "description": "自主求职 + 自学 Agent — 多平台爬取职位、分析技能缺口、自主学习、优化简历、自动投递",
+  "type": "module",
+  "scripts": {
+    "agent": "node agent.js",
+    "agent:daemon": "node agent.js --daemon",
+    "agent:report": "node agent.js --report",
+    "agent:dry": "node agent.js --dry-run",
+    "jobs:discover": "node modules/jobs/discovery.js",
+    "skills:analyze": "node modules/skills/gap-analyzer.js",
+    "learn": "node modules/learning/executor.js",
+    "apply:generate": "node modules/applications/resume-builder.js",
+    "setup": "npx playwright install chromium"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.37.0",
+    "cheerio": "^1.0.0",
+    "handlebars": "^4.7.8",
+    "playwright": "^1.48.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
